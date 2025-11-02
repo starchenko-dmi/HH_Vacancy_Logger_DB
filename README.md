@@ -16,16 +16,9 @@
 
 ## Требования
 
-- **Python** 3.8 или выше
+- **Python** 3.13
 - **PostgreSQL** 12 или выше (должен быть запущен локально или доступен по сети)
 - Установленные Python-пакеты:
   - `requests`
   - `psycopg2-binary`
   - `python-dotenv`
-
-## Установка и настройка
-
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/ваш-ник/hh-vacancy-parser.git
-   cd hh-vacancy-parser
